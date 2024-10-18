@@ -1,6 +1,6 @@
-Oasis Infobyte Internship - Data Analytics 
+# Oasis Infobyte Internship - Data Analytics 
 
- Project: Exploratory Data Analysis on Retail Sales Data 
+ # Project: Exploratory Data Analysis on Retail Sales Data 
 
  Overview 
 
