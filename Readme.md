@@ -16,13 +16,19 @@ The primary objectives of this project are:
 To analyze the relationship between various features of wine and its quality.
 To build predictive models to classify the quality of wine based on input characteristics.
 To derive insights that can aid winemakers in improving product quality.
+
 Technologies Used
 
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib / Seaborn (for data visualization)
+
 Jupyter Notebook
 
 Machine Learning Model Development:
@@ -40,4 +46,5 @@ Insight Generation:
 Derived actionable insights based on the analysis and model predictions that could help improve wine quality.
 
 Acknowledgments
+
 I would like to express my gratitude to Oasis Infobyte for the opportunity to participate in this Level 2 Data Analytics Internship. I appreciate the guidance, support, and resources provided throughout the project. A special thanks to my mentors and peers for their invaluable insights and encouragement, which contributed significantly to my learning experience.
